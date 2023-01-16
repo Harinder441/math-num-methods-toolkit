@@ -1,0 +1,16 @@
+Function =x**4 - x - 10
+Interval choosen is [1,2]
+
+$ Iteration  1 $
+        xnsub(str(i + 1)) = (1 + 2)/2  =  1.75 , f(x1)<0 which implies x1 will replace 1
+     Therefore,new interval is [1.75, 2]
+
+$ Iteration  2 $
+        xnsub(str(i + 1)) = (1.75 + 2)/2  =  1.875 , f(x2)>0 which implies x2 will replace 2
+     Therefore,new interval is [1.75, 1.875]
+
+$ Iteration  3 $
+        xnsub(str(i + 1)) = (1.75 + 1.875)/2  =  1.812 , f(x3)<0 which implies x3 will replace 1.75
+     Therefore,new interval is [1.812, 1.875]
+Both ends of interval in 3th iteration are equal upto 1 decimal places 
+Hence 1.8 is correct root upto 1 decimal places 

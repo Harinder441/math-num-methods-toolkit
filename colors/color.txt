@@ -1,0 +1,15 @@
+image1
+"#2f5d62"
+"#5e8b7e"
+"#a7c4bc"
+"#dfeeea"
+image2
+94d0cc
+eec4c4
+f29191
+"#d1d9d9"
+image3
+"#194350"
+"#ff8882"
+"#ffc2b4"
+"#9dbeb9"
